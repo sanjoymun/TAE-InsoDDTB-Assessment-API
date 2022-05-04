@@ -1,6 +1,6 @@
 # Introduction
 
-This a bare minimum framework setup of API Testing for TAE Assessment project
+This is a bare minimum framework setup of API Testing for TAE Assessment project
 
 ## Tests Covered:
 
